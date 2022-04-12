@@ -1,7 +1,7 @@
-# 蜗牛个人导航
+# 个人导航
 
-### Live Demo
-- [https://s.eallion.com](https://s.eallion.com)
+### 鸣谢 ###
+- https://s.eallion.com 蜗牛导航
 
 ### 关于
 
